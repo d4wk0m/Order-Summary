@@ -74,9 +74,6 @@ I've learned how to make diffrent border-radious on specific corners. I've learn
     margin-bottom: 30px;
 }
 ```
-```js
-
-```
 
 
 ### Continued development
